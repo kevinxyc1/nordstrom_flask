@@ -1,0 +1,11 @@
+﻿sex,name,age,fever,cough,sputum
+male,"Hua, Li",70,1,1,0
+female,"Chenchen, Xi",49,1,0,1
+male,"Qi, Liu",58,0,1,1
+male,"Yuanfang, Li",43,1,1,0
+female,"Gulie, Zhu",56,1,0,0
+female,"Xiaofeng, Wang",45,1,1,0
+male,"Chen, Ouyang",49,1,1,1
+male,"Qinchuan, Bai",53,1,1,0
+male,"Long, Qin",11,1,1,0
+male,"Kai, Chen",47,1,1,0
